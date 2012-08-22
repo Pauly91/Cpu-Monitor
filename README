@@ -1,0 +1,29 @@
+*********************************
+* Cpu Monitor 1.0.0             
+* author: c0bra2 (Jacob Mason)  
+* email: applebl00m@hotmail.com 
+*********************************
+
+Discription:
+	Cpu Monitor is a little widget coded in python that makes
+use of the pygame module for a neatly organized GUI that displays
+critical CPU information.
+
+Requirements:
+sysstat installed
+python 2.x installed
+pygame installed
+tkinter installed
+
+Instructions:
+	Install the required software on linux before trying to run cpu monitor.
+Once that is complete, attempt to run the program from the commandline via
+python cpu.py, and deal with any errors if they arise before attempting to run
+the program again.
+
+Todo:
+1) package installation
+2) add features
+
+
+
